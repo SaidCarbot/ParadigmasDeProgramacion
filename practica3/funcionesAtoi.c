@@ -9,13 +9,10 @@ Compendio de las funciones creadas
 
 /* A Functions
 INDICE
-A.1 Elimi
+A.1) myAtoi
+A.2) Quitar espacios
+A.3) limpiar_buffer
 */
-
-// A.1) myAtoi
-// A.2) Quitar espacios
-// A.3) limpiar_buffer
-
 
 //A.1) My Atoi
 int myAtoi(unsigned char *cadena)
